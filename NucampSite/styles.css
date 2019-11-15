@@ -1,0 +1,32 @@
+body {
+    font-family: "Arvo", sans-serif
+}
+
+h1, h2, h3 {
+    font-family: cursive;
+}
+
+h2 {
+    color:black;
+}
+
+header h2 {
+    color: purple;
+}
+
+footer {
+    background-image: linear-gradient(purple, white);
+    padding: 20px;
+}
+
+.jumbotron {
+    padding: 40px 0;
+    background-image: linear-gradient(to right,black, purple);
+    color: white;
+}
+
+.row-content {
+    padding: 50px 0;
+    border-bottom: 1px ridge;
+    min-height: 200px;
+}
